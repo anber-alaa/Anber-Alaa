@@ -1,4 +1,4 @@
-# Hello👋, I'm Anber Alaa! 
+# Hello👋, I'm Anber! 
 
 A **Junior Front-End Developer**
 ---
