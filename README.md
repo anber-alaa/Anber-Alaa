@@ -1,6 +1,6 @@
 # Hello👋, I'm Anber Alaa! 
 
-A **Junior Front-End Developer from Eygpt**
+A **Junior Front-End Developer**
 ---
 
 ## 🚀 **Skills & Technologies**  
