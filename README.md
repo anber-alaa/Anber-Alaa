@@ -30,8 +30,8 @@
 
 ## 🚀 **Skills & Technologies**  
 
-- **Front-End Development:** HTML, CSS, JavaScript (ES6+) 
-- **Styling & UI Frameworks:** Bootstrap
+- **Front-End Development:** HTML, CSS, JavaScript (ES6+), jQuery, React.js 
+- **Styling & UI Frameworks:** Bootstrap, TailwindCss
 - **Version Control:** Git, GitHub
 
 ---
