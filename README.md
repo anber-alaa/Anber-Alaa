@@ -6,14 +6,14 @@
 
 - 📫 How to reach me **anber.alaa27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/anber-alaa-281626336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anber-alaa-281626336" height="30" width="40" /></a>
 </p>
 
 
 
-<h2>🛠️ Tech Stack</h2>
+<h4>🛠️ Tech Stack</h4>
 <p align="left">
 <!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="HTML5"/>
