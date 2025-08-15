@@ -25,10 +25,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="JavaScript"/>
 <!-- jQuery -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30px" alt="jQuery"/>
+<!--Postman -->
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"/> 
+  </a>
 <!-- React -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="React"/>
 <!-- Tailwind -->
-<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" width="30px" alt="TailwindCSS"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30"/> 
+</a>
 <!-- Sass -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" alt="Sass"/>
 <!-- TypeScript -->
@@ -55,11 +61,8 @@ Check out my **GitHub repositories** for more projects! 🚀
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anber-alaa&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=anber-alaa&theme=radical&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anber-alaa&layout=compact&theme=radical" width="48%"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anber-alaa&show_icons=true&locale=en&layout=compact" alt="anber" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anber-alaa&show_icons=true&locale=en" alt="anber" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anber-alaa&" alt="anber" /></p>
